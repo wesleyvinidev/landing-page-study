@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #0a1128;
+    --primary-color1: hsla(226, 61%, 10%, 0.479);
+    --white-color:#fff;
+    --light-gray-color:#eee;
+    --gap: 2rem ;
+    --secondary-color:crimson;
+}
